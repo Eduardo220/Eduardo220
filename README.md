@@ -25,6 +25,8 @@
 | Cursos | Horas | Certificados |
 |--------|-------|--------------|
 | Fundamentos de Banco de Dados | 10hrs | [Certificado](https://www.dio.me/certificate/FXGK7TTL/share)
+| Fundamentos de Desenvolvimento de Software com PHP | 14hrs | [Certificado](https://www.dio.me/certificate/6QJJPDWW/share)
+| Tratamento de Exceções e Programação Orientada a Objetos em PHP | 07hrs | [Certificado](https://www.dio.me/certificate/L73BPSJQ/share)
 | Formação em Git e GitHub | 10hrs | [Em andamento]
 | Formação PHP Experience | 40hrs | [Em andamento]
 | Formação SQL Database Specialist | 72hrs | [Em andamento]
