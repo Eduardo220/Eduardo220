@@ -22,6 +22,13 @@
 ![PHP](https://img.shields.io/badge/PHP-%23484c89?style=for-the-badge&logo=php&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F?style=for-the-badge&logo=mysql&logoColor=black) 
 
+| Cursos | Horas | Certificados |
+|--------|-------|--------------|
+| Fundamentos de Banco de Dados | 10hrs | [Certificado](https://www.dio.me/certificate/FXGK7TTL/share)
+| Formação em Git e GitHub | 10hrs | [Em andamento]
+| Formação PHP Experience | 40hrs | [Em andamento]
+| Formação SQL Database Specialist | 72hrs | [Em andamento]
+
 ## 📊 Linguagens mais usadas:
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Eduardo220&theme=midnight-purple&layout=compact&bg_color=000&border_color=8300ff&text_color=FFF)
 
@@ -30,11 +37,11 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo220&hide_title=true&border_color=8300ff&theme=midnight-purple&show_icons=true)
 
 
-## 🛠️ Tools
+## 🛠️ Minhas tecnologias
+<p align="center">
 
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![PHP](https://img.shields.io/badge/PHP-%23484c89?style=for-the-badge&logo=php&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-%2300758F?style=for-the-badge&logo=mysql&logoColor=black) 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100">   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="100">      
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="100">       
+
+</p>
