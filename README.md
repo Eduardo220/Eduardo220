@@ -15,7 +15,7 @@
 🚀 Estou ansioso para compartilhar meu progresso, projetos e contribuições aqui no GitHub. Me acompanhe nessa jornada de descobertas e aprendizado! 
 
 ## 👋 Fale comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-weissheimer-926b751a4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-weissheimer/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E1306C?style=for-the-badge)](https://www.instagram.com/edu_weissheimer/)
 
 ## 📚 Estudando nesse momento:
