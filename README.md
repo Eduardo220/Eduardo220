@@ -21,6 +21,8 @@
 ## 📚 Estudando nesse momento:
 ![PHP](https://img.shields.io/badge/PHP-%23484c89?style=for-the-badge&logo=php&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F?style=for-the-badge&logo=mysql&logoColor=black) 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
+
 
 | Cursos | Horas | Certificados |
 |--------|-------|--------------|
